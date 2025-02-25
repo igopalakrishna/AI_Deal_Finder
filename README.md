@@ -40,23 +40,6 @@ Project Structure
 
 The project is organized as follows:
 
-AI_Deal_Finder/
-├── agents/
-│   ├── app.py
-│   ├── deal_agent_framework.py
-│   ├── hello.py
-│   ├── items.py
-│   ├── keep_warm.py
-│   ├── llama.py
-│   ├── log_utils.py
-│   ├── memory.json
-│   ├── price_is_right.py
-│   ├── pricer_ephemeral.py
-│   ├── pricer_service.py
-│   ├── pricer_service2.py
-│   ├── testing.py
-├── README.md
-└── requirements.txt
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/dff01a6d-1465-4760-ae6a-ef5db472d277" />
 
 

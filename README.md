@@ -57,6 +57,8 @@ AI_Deal_Finder/
 │   ├── testing.py
 ├── README.md
 └── requirements.txt
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/dff01a6d-1465-4760-ae6a-ef5db472d277" />
+
 
 Important Files:
 
